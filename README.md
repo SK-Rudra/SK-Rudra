@@ -1,6 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=SHAHRIAR%20KARIM%20RUDRA&fontSize=46&fontName=Poppins&fontColor=E8F1F2&animation=fadeIn&fontAlignY=38&desc=NLP%20Engineer%20%7C%20Bangla%20Language%20AI%20%7C%20CSE%20%40%20BRAC%20University&descAlignY=58&descSize=16&descColor=8FD3E8" alt="Header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header" alt="Header banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=2800&pause=1000000&color=8FD3E8&center=true&vCenter=true&width=720&height=60&lines=SHAHRIAR+KARIM+RUDRA" alt="Animated name reveal" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000000&color=4A90D9&center=true&vCenter=true&width=700&height=35&lines=NLP+Engineer+%7C+Bangla+Language+AI+%7C+CSE+%40+BRAC+University" alt="Tagline" />
+
+<br>
 
 <a href="https://github.com/SK-Rudra">
   <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=8FD3E8" alt="GitHub" />
@@ -28,10 +34,10 @@ I'm a Computer Science undergraduate at **BRAC University**, focused on **NLP an
 I care about building things that are genuinely useful in underserved language contexts, not just technically interesting.
 
 ```txt
-role       : NLP / LLM Engineer (in progress)
-institution: BRAC University, Dhaka
+role        : NLP / LLM Engineer (in progress)
+institution : BRAC University, Dhaka
 research    : Bangla PII Detection & Redaction (BanglaBERT + NER)
-principle  : Ship fewer things, ship them well
+principle   : Ship fewer things, ship them well
 ```
 
 <br>
