@@ -1,195 +1,183 @@
 <div align="center">
 
-Hi, I'm SK Rudra 👋
+SK Rudra
 
-CSE Student · AI/ML Enthusiast · Aspiring AI Engineer
+Computer Science & Engineering Student | AI/ML & NLP Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+strong+AI%2FML+fundamentals;Exploring+Bangla+NLP;Learning%2C+building%2C+and+improving+every+day" alt="Typing introduction" />
+Building practical, responsible, and data-driven solutions—with a particular interest in Bangla NLP and low-resource language technologies.
 
-<a href="https://github.com/SK-Rudra">
-  <img src="https://komarev.com/ghpvc/?username=SK-Rudra&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</a>
-<a href="https://github.com/SK-Rudra?tab=followers">
-  <img src="https://img.shields.io/github/followers/SK-Rudra?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/shahriar-karim-rudra-20ab08315/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
+  <a href="mailto:s.k.rudra1502@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email SK Rudra" />
+  </a>
+  <a href="https://github.com/SK-Rudra?tab=followers">
+    <img src="https://img.shields.io/github/followers/SK-Rudra?label=Follow&style=flat-square&logo=github" alt="GitHub followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SK-Rudra&style=flat-square&color=0A66C2" alt="Profile views" />
+</p>
 
 </div>
 
-🚀 About Me
+Professional Profile
 
-🎓 Computer Science & Engineering student at BRAC University
+I am a Computer Science & Engineering student at BRAC University, developing a strong foundation in artificial intelligence, machine learning, natural language processing, and software engineering. My current work focuses on applying machine learning to real-world problems, particularly Bangla text processing, named entity recognition, and privacy-preserving NLP.
 
-🤖 Interested in Artificial Intelligence, Machine Learning, and NLP
+Alongside my academic work, I practise data structures and algorithms, build software projects, and strengthen my skills in Python, SQL, Git, databases, and full-stack development. My long-term goal is to contribute as an AI/ML Engineer by developing reliable systems that create measurable value.
 
-🧠 Currently learning Data Science, Machine Learning, Deep Learning, and NLP
+Current Focus
 
-🔬 Exploring Bangla NLP and low-resource language processing
+Area
 
-💻 Practising Data Structures, Algorithms, and Problem Solving
+What I am working on
 
-🛠️ Building practical projects to strengthen my development skills
+Machine Learning
 
-📚 Improving my Python, SQL, Git, and Software Engineering knowledge
+Data preparation, feature engineering, model training, and evaluation
 
-🎯 Working toward becoming a professional AI/ML Engineer
+Natural Language Processing
 
-🧠 Currently Learning
+Text classification, named entity recognition, and transformer models
 
-Python → Data Science → Machine Learning → Deep Learning → NLP → AI
+Bangla NLP
 
-I am also working on:
+Low-resource language processing and privacy-aware text applications
 
-Data Structures & Algorithms
+Software Engineering
+
+Clean code, version control, databases, and maintainable applications
 
 Problem Solving
 
-Git & GitHub
+Data structures, algorithms, and analytical thinking
 
-SQL & Databases
+Technical Skills
 
-Full-Stack Development
-
-English & Communication Skills
-
-🛠️ Tech Stack
-
-Programming Languages
+Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,php" alt="Python, C, C++, Java, JavaScript, and PHP" />
 </p>
 
-AI & Data Science
+Machine Learning & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" alt="TensorFlow, PyTorch, Scikit-learn, and OpenCV" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111111" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 </p>
 
-Web Development
+Web, Databases & Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" alt="HTML, CSS, JavaScript, PHP, and MySQL" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" alt="HTML, CSS, JavaScript, PHP, MySQL, Git, GitHub, and Visual Studio Code" />
 </p>
 
-Databases & Tools
+Selected Projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="MySQL, Git, GitHub, and Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-</p>
+Project
 
-📌 Featured Projects
+Description
 
-🤖 AI & Machine Learning
+Core Technologies
 
 Bangla PII Detection & Redaction
 
-Machine learning-based detection and redaction of personally identifiable information in Bangla digital text for privacy-preserving data sharing.
+A machine learning-based system for detecting and redacting personally identifiable information in Bangla digital text to support privacy-preserving data sharing.
 
-Focus: Bangla NLP · Named Entity Recognition · Privacy · Machine Learning
-
-AI/ML Experiments
-
-Projects involving data preprocessing, exploratory data analysis, feature engineering, model training, and performance evaluation.
-
-Focus: Python · Pandas · Scikit-learn · Data Visualization
-
-💻 Software Development
+Python, NLP, NER, Transformers, Machine Learning
 
 AURON Supershop & Auction Website
 
-A web-based supershop and auction platform developed using PHP and MySQL.
+A web platform combining supershop functionality with an online auction system and database-driven operations.
 
-Tech: PHP · MySQL · HTML · CSS · JavaScript
+PHP, MySQL, HTML, CSS, JavaScript
 
 3D Intelligent Traffic Simulator
 
-A simulation project focused on intelligent traffic management and the visualization of real-world traffic behaviour.
+A simulation project designed to explore intelligent traffic management and visualise traffic behaviour.
 
-Focus: Simulation · Intelligent Systems · Traffic Management
+Simulation, Intelligent Systems, 3D Visualisation
 
-🗺️ My Learning Roadmap
+Machine Learning Experiments
 
-flowchart BT
-    A[Python + DSA + SQL] --> B[Data Science]
-    B --> C[Machine Learning]
-    C --> D[Deep Learning]
-    D --> E[Natural Language Processing]
-    E --> F[Artificial Intelligence]
-    F --> G[AI/ML Engineer]
+A growing collection of projects covering data preprocessing, exploratory analysis, feature engineering, model training, and evaluation.
 
-🎯 2026 Goals
+Python, Pandas, NumPy, Scikit-learn
 
-Strengthen Python fundamentals
+Research Interests
 
-Master Data Structures & Algorithms
+Natural Language Processing
 
-Complete Data Science fundamentals
+Bangla and low-resource language technologies
 
-Learn Machine Learning and Deep Learning
+Named Entity Recognition and information extraction
 
-Develop practical NLP skills
+Privacy-preserving NLP and text anonymisation
 
-Build 8–10 quality projects
+Machine Learning and Deep Learning
 
-Contribute to open-source projects
+Responsible and ethical AI
 
-Build a strong GitHub portfolio
+Development Priorities
 
-Improve my LinkedIn profile
+Strong Fundamentals
+        ↓
+Data Science & Machine Learning
+        ↓
+Deep Learning & NLP
+        ↓
+Production-Ready AI Systems
+        ↓
+AI/ML Engineering
 
-Prepare for internships and entry-level roles
+My current priorities are to:
 
-Start earning through software and AI skills
+deepen my understanding of Python, data structures, algorithms, and SQL;
 
-📊 GitHub Stats
+build well-documented, end-to-end AI and software projects;
+
+gain practical experience with machine learning and NLP workflows;
+
+contribute to meaningful open-source projects; and
+
+prepare for research, internship, and entry-level AI/ML opportunities.
+
+GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SK-Rudra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="SK Rudra's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SK-Rudra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="SK Rudra's most-used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SK-Rudra&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="SK Rudra's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SK-Rudra&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="SK Rudra's most-used languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SK-Rudra&theme=tokyonight&hide_border=true" alt="SK Rudra's GitHub contribution streak" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SK-Rudra&theme=github-compact&hide_border=true&area=true" alt="SK Rudra's GitHub contribution activity" />
 
 </div>
 
-📈 Contribution Activity
+Connect
+
+I am interested in collaborating on machine learning, Bangla NLP, privacy-focused NLP, and open-source software projects.
+
+<p>
+  <a href="https://github.com/SK-Rudra">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/shahriar-karim-rudra-20ab08315/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:s.k.rudra1502@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SK-Rudra&theme=tokyo-night&hide_border=true&area=true" alt="SK Rudra's GitHub contribution graph" />
-
-</div>
-
-🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/SK-Rudra">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/shahriar-karim-rudra-20ab08315/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:s.k.rudra1502@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
-
-💡 My Philosophy
-
-“Learn every day. Build every day. Improve every day.”
-
-I am not trying to learn everything at once. I am focused on building strong fundamentals, creating meaningful projects, solving problems, and becoming better every day.
-
-<div align="center">
-
-Thanks for visiting my profile! 🚀
-
-⭐ If you find my projects useful, consider giving them a star!
+Learn consistently. Build thoughtfully. Improve continuously.
 
 </div>
