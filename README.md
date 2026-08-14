@@ -1,85 +1,85 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9F5,50:7B2CFF,100:FF00CC&height=230&section=header&text=SK%20RUDRA&fontSize=72&fontName=Orbitron&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&stroke=00D9F5&strokeWidth=2&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20NLP%20%E2%80%A2%20SOFTWARE&descAlignY=56&descSize=18" alt="SK Rudra animated header" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=900&color=00D9F5&center=true&vCenter=true&random=false&width=650&lines=CSE+Student+%40+BRAC+University;AI%2FML+Enthusiast;Bangla+NLP+Explorer;Building+the+future%2C+one+model+at+a+time" alt="Animated typing introduction" />
-</a>
-
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=SHAHRIAR%20KARIM%20RUDRA&fontSize=46&fontName=Poppins&fontColor=E8F1F2&animation=fadeIn&fontAlignY=38&desc=NLP%20Engineer%20%7C%20Bangla%20Language%20AI%20%7C%20CSE%20%40%20BRAC%20University&descAlignY=58&descSize=16&descColor=8FD3E8" alt="Header banner" />
 
 <a href="https://github.com/SK-Rudra">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9F5" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=8FD3E8" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/shahriar-karim-rudra-20ab08315/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=7B2CFF" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=4A90D9" alt="LinkedIn" />
 </a>
 <a href="mailto:s.k.rudra1502@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF00CC" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=E8A33D" alt="Email" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SK-Rudra&label=PROFILE+VIEWS&color=7B2CFF&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/SK-Rudra?label=FOLLOWERS&style=for-the-badge&color=00B8D9&labelColor=0D1117" alt="GitHub followers" />
+<img src="https://komarev.com/ghpvc/?username=SK-Rudra&label=PROFILE+VIEWS&color=203A43&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/SK-Rudra?label=FOLLOWERS&style=flat-square&color=2C5364&labelColor=121212" alt="GitHub followers" />
 
 </div>
 
----
+<br>
 
-## ⚡ About Me
+## 🧭 About
 
+I'm a Computer Science undergraduate at **BRAC University**, focused on **NLP and LLM engineering** — with a particular interest in low-resource language processing. My thesis centers on building an ML-based pipeline for detecting and redacting personally identifiable information (PII) in **Bangla digital text**, combining fine-tuned transformer models with rule-based structured detection.
 
-<b>Name: Shahriar Karim Rudra</b><br>
-<b>Education: CSE @ BRAC University</b><br>
-<b>Focus: AI · Machine Learning · NLP</b><br>
-<b>Research: Bangla NLP · Privacy-Preserving AI</b><br>
-<b>Mission: Build intelligent solutions that matter</b>
+I care about building things that are genuinely useful in underserved language contexts, not just technically interesting.
 
-## 🧠 Tech Universe
+```txt
+role       : NLP / LLM Engineer (in progress)
+institution: BRAC University, Dhaka
+research    : Bangla PII Detection & Redaction (BanglaBERT + NER)
+principle  : Ship fewer things, ship them well
+```
+
+<br>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php&theme=dark" alt="Programming languages" />
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,php&theme=dark" alt="Programming languages" />
+**AI / ML / NLP**
+<br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI and ML frameworks" />
+&nbsp;&nbsp;
+<img height="46" src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" />
+&nbsp;&nbsp;
+<img height="46" src="https://cdn.simpleicons.org/numpy/4DABCF" alt="NumPy" />
+&nbsp;&nbsp;
+<img height="46" src="https://cdn.simpleicons.org/pandas/8A2BE2" alt="Pandas" />
 
-### AI · Data · NLP
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI and machine learning tools" />
-&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/numpy/4DABCF" alt="NumPy" />
-&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/pandas/8A2BE2" alt="Pandas" />
-&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" />
-
-### Web · Database · Tools
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&theme=dark" alt="Web, database, and development tools" />
+**Web, Data & Tooling**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,fastapi&theme=dark" alt="Web, database, and development tools" />
 
 </div>
 
-## 🚀 Featured Builds
+<br>
 
-<table>
+## 🔬 Featured Work
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Bangla PII Detection
+### 🔐 Bangla PII Detection & Redaction
+Fine-tuned BanglaBERT NER pipeline layered with a regex-based structured-entity detector, built to identify and redact private information in Bangla text.
 
-Detecting and redacting private information from Bangla digital text.
-
-<code>Python</code> <code>NLP</code> <code>NER</code> <code>Transformers</code>
+`Python` `Transformers` `NER` `FastAPI`
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 AURON
+### 🛒 AURON — Supershop & Auction Platform
+A database-driven e-commerce and online auction system covering inventory, bidding, and transaction workflows end-to-end.
 
-Supershop and online auction platform with database-driven operations.
-
-<code>PHP</code> <code>MySQL</code> <code>JavaScript</code>
+`PHP` `MySQL` `JavaScript`
 
 </td>
 </tr>
@@ -87,64 +87,68 @@ Supershop and online auction platform with database-driven operations.
 <td width="50%" valign="top">
 
 ### 🚦 3D Traffic Simulator
+An interactive simulation exploring intelligent, adaptive traffic-flow management.
 
-Intelligent traffic management through interactive simulation.
-
-<code>Simulation</code> <code>AI</code> <code>3D</code>
+`Simulation` `AI` `3D`
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 ML Experiments
+### 📊 Applied ML Experiments
+End-to-end modeling work — from raw data and feature engineering through evaluation and iteration.
 
-From raw data and feature engineering to trained, evaluated models.
-
-<code>Pandas</code> <code>NumPy</code> <code>Scikit-learn</code>
+`Pandas` `NumPy` `Scikit-learn`
 
 </td>
 </tr>
 </table>
 
-## 📊 Digital Footprint
+<br>
+
+## 📈 GitHub Overview
 
 <div align="center">
 
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=SK-Rudra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9F5&icon_color=FF00CC&text_color=FFFFFF&rank_icon=github" alt="SK Rudra's GitHub statistics" />
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SK-Rudra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9F5&text_color=FFFFFF&langs_count=8" alt="SK Rudra's most-used languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=SK-Rudra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=8FD3E8&icon_color=E8A33D&text_color=E8F1F2&rank_icon=github" alt="SK Rudra's GitHub statistics" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SK-Rudra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=8FD3E8&text_color=E8F1F2&langs_count=8" alt="SK Rudra's most-used languages" />
 
 <br>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=SK-Rudra&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9F5&fire=FF00CC&currStreakLabel=7B2CFF" alt="SK Rudra's GitHub streak" />
+<img width="60%" src="https://streak-stats.demolab.com?user=SK-Rudra&theme=dark&hide_border=true&background=0D1117&ring=8FD3E8&fire=E8A33D&currStreakLabel=E8F1F2" alt="SK Rudra's GitHub streak" />
 
 <br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SK-Rudra&bg_color=0D1117&color=FFFFFF&line=7B2CFF&point=00D9F5&area_color=FF00CC&area=true&hide_border=true&custom_title=CONTRIBUTION%20GALAXY" alt="SK Rudra's contribution graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SK-Rudra&bg_color=0D1117&color=E8F1F2&line=4A90D9&point=8FD3E8&area_color=203A43&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="SK Rudra's contribution graph" />
 
 </div>
 
-## 🎯 Current Quest
+<br>
+
+## 🎯 Currently Focused On
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Strengthen_Python-00D9F5?style=for-the-badge&logo=python&logoColor=0D1117" alt="Strengthen Python" />
-<img src="https://img.shields.io/badge/Master_DSA-7B2CFF?style=for-the-badge&logo=leetcode&logoColor=white" alt="Master DSA" />
-<img src="https://img.shields.io/badge/Build_AI_Projects-FF00CC?style=for-the-badge&logo=probot&logoColor=white" alt="Build AI projects" />
-<img src="https://img.shields.io/badge/Open_Source-00B8D9?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open source" />
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-121212?style=for-the-badge&logo=leetcode&logoColor=E8A33D" alt="DSA" />
+<img src="https://img.shields.io/badge/NLP_%2F_LLM_Engineering-121212?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="NLP / LLM Engineering" />
+<img src="https://img.shields.io/badge/Bangla_PII_Thesis-121212?style=for-the-badge&logo=readthedocs&logoColor=8FD3E8" alt="Thesis" />
+<img src="https://img.shields.io/badge/Open_Source-121212?style=for-the-badge&logo=opensourceinitiative&logoColor=4A90D9" alt="Open Source" />
 
 </div>
 
+<br>
+
 <div align="center">
 
-### 💬 Let's build something intelligent.
+### Let's talk NLP, Bangla language tech, or anything worth building.
 
 <a href="mailto:s.k.rudra1502@gmail.com">
-  <img src="https://img.shields.io/badge/START_A_CONVERSATION-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9F5" alt="Start a conversation" />
+  <img src="https://img.shields.io/badge/GET_IN_TOUCH-121212?style=for-the-badge&logo=gmail&logoColor=E8A33D" alt="Get in touch" />
 </a>
 
 <br><br>
 
-<code>Learn.</code> <code>Build.</code> <code>Improve.</code> <code>Repeat.</code>
+<sub><code>Learn.</code> · <code>Build.</code> · <code>Iterate.</code> · <code>Ship.</code></sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00CC,50:7B2CFF,100:00D9F5&height=130&section=footer&animation=twinkling" alt="Animated footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="Footer banner" />
 
 </div>
