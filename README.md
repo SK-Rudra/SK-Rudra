@@ -30,13 +30,12 @@
 ## ⚡ About Me
 
 <pre>
-name: SK Rudra
-education: CSE @ BRAC University
-focus: AI · Machine Learning · NLP
-research: Bangla NLP · Privacy-Preserving AI
-mission: Build intelligent solutions that matter
+<b>name: SK Rudra</b>
+<b>education: CSE @ BRAC University</b>
+<b>focus: AI · Machine Learning · NLP</b>
+<b>research: Bangla NLP · Privacy-Preserving AI</b>
+<b>mission: Build intelligent solutions that matter</b>
 </pre>
-
 ## 🧠 Tech Universe
 
 <div align="center">
