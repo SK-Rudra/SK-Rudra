@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9F5,50:7B2CFF,100:FF00CC&height=230&section=header&text=SK%20RUDRA&fontSize=70&fontName=Orbitron&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20NLP%20%E2%80%A2%20SOFTWARE&descAlignY=56&descSize=18" alt="SK Rudra animated header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9F5,50:7B2CFF,100:FF00CC&height=230&section=header&text=SK%20RUDRA&fontSize=72&fontName=Orbitron&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&stroke=00D9F5&strokeWidth=2&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20NLP%20%E2%80%A2%20SOFTWARE&descAlignY=56&descSize=18" alt="SK Rudra animated header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=900&color=00D9F5&center=true&vCenter=true&random=false&width=650&lines=CSE+Student+%40+BRAC+University;AI%2FML+Enthusiast;Bangla+NLP+Explorer;Building+the+future%2C+one+model+at+a+time" alt="Animated typing introduction" />
