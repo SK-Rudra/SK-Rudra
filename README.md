@@ -30,10 +30,10 @@
 ## ⚡ About Me
 
 
-<b>Name: Shahriar Karim Rudra</b>
-<b>Education: CSE @ BRAC University</b>
-<b>Focus: AI · Machine Learning · NLP</b>
-<b>Research: Bangla NLP · Privacy-Preserving AI</b>
+<b>Name: Shahriar Karim Rudra</b><br>
+<b>Education: CSE @ BRAC University</b><br>
+<b>Focus: AI · Machine Learning · NLP</b><br>
+<b>Research: Bangla NLP · Privacy-Preserving AI</b><br>
 <b>Mission: Build intelligent solutions that matter</b>
 
 ## 🧠 Tech Universe
