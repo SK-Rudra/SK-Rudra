@@ -124,7 +124,7 @@ End-to-end modeling work — from raw data and feature engineering through evalu
 
 <br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SK-Rudra&bg_color=0D1117&color=E8F1F2&line=4A90D9&point=8FD3E8&area_color=203A43&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="SK Rudra's contribution graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SK-Rudra&bg_color=0D1117&color=E8F1F2&line=4A90D9&point=8FD3E8&area_color=203A43&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="SK-Rudra's contribution graph" />
 
 </div>
 
