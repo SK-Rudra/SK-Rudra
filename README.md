@@ -1,160 +1,49 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header" alt="Header banner" />
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=200&section=header&descAlign=Y&descAlignY=51" alt="Header banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=2800&pause=1000000&color=8FD3E8&center=true&vCenter=true&width=720&height=60&lines=SHAHRIAR+KARIM+RUDRA" alt="Animated name reveal" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000000&color=4A90D9&center=true&vCenter=true&width=700&height=35&lines=NLP+Engineer+%7C+Bangla+Language+AI+%7C+CSE+%40+BRAC+University" alt="Tagline" />
+<!-- Typing SVG for Name and Titles -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=70&lines=SHAHRIAR+KARIM+RUDRA;NLP+%26+LLM+ENGINEER;AI+%2F+ML+DEVELOPER;CSE+%40+BRAC+UNIVERSITY" alt="Typing Name Reveal" />
+</a>
 
 <br>
 
+<!-- Social Badges -->
 <a href="https://github.com/SK-Rudra">
-  <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=8FD3E8" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/shahriar-karim-rudra-20ab08315/">
-  <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=4A90D9" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:s.k.rudra1502@gmail.com">
-  <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=E8A33D" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SK-Rudra&label=PROFILE+VIEWS&color=203A43&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/SK-Rudra?label=FOLLOWERS&style=flat-square&color=2C5364&labelColor=121212" alt="GitHub followers" />
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=SK-Rudra&label=PROFILE+VIEWS&color=1F6FEB&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/SK-Rudra?label=FOLLOWERS&style=flat-square&color=238636&labelColor=121212" alt="GitHub followers" />
 
 </div>
 
 <br>
 
-## 🧭 About
+## 🧭 About Me
 
-I'm a Computer Science undergraduate at **BRAC University**, focused on **NLP and LLM engineering** — with a particular interest in low-resource language processing. My thesis centers on building an ML-based pipeline for detecting and redacting personally identifiable information (PII) in **Bangla digital text**, combining fine-tuned transformer models with rule-based structured detection.
+I am a Computer Science undergraduate at **BRAC University**, specializing in **Machine Learning, NLP, and Systems Architecture**. My primary focus is building intelligent systems that solve real-world problems, with a strong dedication to low-resource language processing and robust data pipelines. 
 
-I care about building things that are genuinely useful in underserved language contexts, not just technically interesting.
+Beyond text-based models, I have a deep technical interest in full-stack integration, algorithmic performance, and interactive 3D rendering. I care about building tools that are not just technically complex, but genuinely impactful and meticulously engineered.
 
-```txt
-role        : NLP / LLM Engineer (in progress)
-institution : BRAC University, Dhaka
-research    : Bangla PII Detection & Redaction (BanglaBERT + NER)
-principle   : Ship fewer things, ship them well
-```
-
-<br>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php&theme=dark" alt="Programming languages" />
-
-**AI / ML / NLP**
-<br>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI and ML frameworks" />
-&nbsp;&nbsp;
-<img height="46" src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" />
-&nbsp;&nbsp;
-<img height="46" src="https://cdn.simpleicons.org/numpy/4DABCF" alt="NumPy" />
-&nbsp;&nbsp;
-<img height="46" src="https://cdn.simpleicons.org/pandas/8A2BE2" alt="Pandas" />
-
-**Web, Data & Tooling**
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,fastapi&theme=dark" alt="Web, database, and development tools" />
-
-</div>
-
-<br>
-
-## 🔬 Featured Work
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Bangla PII Detection & Redaction
-Fine-tuned BanglaBERT NER pipeline layered with a regex-based structured-entity detector, built to identify and redact private information in Bangla text.
-
-`Python` `Transformers` `NER` `FastAPI`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 AURON — Supershop & Auction Platform
-A database-driven e-commerce and online auction system covering inventory, bidding, and transaction workflows end-to-end.
-
-`PHP` `MySQL` `JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚦 3D Traffic Simulator
-An interactive simulation exploring intelligent, adaptive traffic-flow management.
-
-`Simulation` `AI` `3D`
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Applied ML Experiments
-End-to-end modeling work — from raw data and feature engineering through evaluation and iteration.
-
-`Pandas` `NumPy` `Scikit-learn`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 📈 GitHub Overview
-
-<div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=SK-Rudra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=8FD3E8&icon_color=E8A33D&text_color=E8F1F2&rank_icon=github" alt="SK Rudra's GitHub statistics" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SK-Rudra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=8FD3E8&text_color=E8F1F2&langs_count=8" alt="SK Rudra's most-used languages" />
-
-<br>
-
-<img width="60%" src="https://streak-stats.demolab.com?user=SK-Rudra&theme=dark&hide_border=true&background=0D1117&ring=8FD3E8&fire=E8A33D&currStreakLabel=E8F1F2" alt="SK Rudra's GitHub streak" />
-
-<br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SK-Rudra&bg_color=0D1117&color=E8F1F2&line=4A90D9&point=8FD3E8&area_color=203A43&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="SK-Rudra's contribution graph" />
-
-</div>
-
-<br>
-
-## 🎯 Currently Focused On
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-121212?style=for-the-badge&logo=leetcode&logoColor=E8A33D" alt="DSA" />
-<img src="https://img.shields.io/badge/NLP_%2F_LLM_Engineering-121212?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="NLP / LLM Engineering" />
-<img src="https://img.shields.io/badge/Bangla_PII_Thesis-121212?style=for-the-badge&logo=readthedocs&logoColor=8FD3E8" alt="Thesis" />
-<img src="https://img.shields.io/badge/Open_Source-121212?style=for-the-badge&logo=opensourceinitiative&logoColor=4A90D9" alt="Open Source" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### Let's talk NLP, Bangla language tech, or anything worth building.
-
-<a href="mailto:s.k.rudra1502@gmail.com">
-  <img src="https://img.shields.io/badge/GET_IN_TOUCH-121212?style=for-the-badge&logo=gmail&logoColor=E8A33D" alt="Get in touch" />
-</a>
-
-<br><br>
-
-<sub><code>Learn.</code> · <code>Build.</code> · <code>Iterate.</code> · <code>Ship.</code></sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="Footer banner" />
-
-</div>
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Shahriar Karim Rudra"
+        self.institution = "BRAC University, Dhaka"
+        self.focus = ["NLP", "LLMs", "Machine Learning", "3D Graphics"]
+        self.thesis = "Bangla PII Detection & Redaction (BanglaBERT + NER)"
+        
+    def get_principle(self):
+        return "Ship fewer things, ship them exceptionally well."
