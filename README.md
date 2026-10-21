@@ -62,7 +62,7 @@ class Developer:
 </picture>
 </h3>
 
-- **Research:** ChhayaPath, time-aware pedestrian routing that reduces sun exposure in Dhaka. Selected for Inter University Research Expo 2026.
+- **Research:** ChhayaPath, time-aware pedestrian routing that reduces sun exposure in Dhaka. Selected for Inter University Research Expo 2026.[ChhayaPath](https://github.com/SK-Rudra/ChhayaPath)
 - **Practice:** data structures and algorithms through [NeetCode 150](https://github.com/SK-Rudra/NeetCode150).
 
 <br>
